@@ -18,5 +18,7 @@ Contents
 
 .. toctree::
 
+   main
    usage
    api
+   index
