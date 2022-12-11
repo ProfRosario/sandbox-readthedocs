@@ -6,7 +6,7 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+This set describes how to load the document to use Lumache, first install it using pip:
 
 .. code-block:: console
 
