@@ -21,4 +21,4 @@ Contents
    main
    usage
    api
-   index
+   appendix
