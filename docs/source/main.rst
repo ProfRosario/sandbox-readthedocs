@@ -1,5 +1,5 @@
 
-Welcome to the main Paint
+Tite: Welcome to Main Page
 ===================================
 
 Main page of Python library.
