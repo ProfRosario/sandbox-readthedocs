@@ -23,3 +23,4 @@ Contents
    api
    appendix
    discovery
+   helloworld
