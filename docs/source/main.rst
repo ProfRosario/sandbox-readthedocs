@@ -2,4 +2,4 @@
 Tite: Welcome to Main Page
 ===================================
 
-Main page of Python library.
+This page will contain information about Python in the future.
