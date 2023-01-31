@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'TestHello'
+copyright = '2023, Splash Paint Production'
+author = 'Rosa Rio'
 
 release = '0.1'
 version = '0.1.0'
