@@ -1,4 +1,4 @@
-Title: Home Page: Welcome to Lumache's documentation!
+Title Home Page: Welcome to Lumache's documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -11,7 +11,7 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This is the Home Page when you press the House icon on top left hand side.
 
 Contents
 --------
